@@ -1,0 +1,57 @@
+.menu {
+    background-color: #40026C !important;
+    margin-bottom: 30px;
+}
+
+.menu a {
+    color: #fff !important;
+}
+
+.corBotao{
+    background-color: #40026C !important;
+    border: none;
+}
+
+.card{
+    margin-left: 15%;
+    border: 2px solid #999;
+    box-shadow: 10px 5px 5px #aaa;
+}
+
+.espacamento {
+    margin-bottom: 3%;    
+}
+
+h3{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.texto-carousel h5 {
+    color:#40026C;
+    font-size: 3rem;
+    font-weight: 500;
+    
+}
+
+.texto-carousel p {
+    color: #40026C;
+    font-size: 1.5rem;
+    font-weight: 500;    
+}
+
+.row {
+    margin: 2%;
+}
+
+#texto-clientes {
+    margin-left: 35%;
+}
+
+#texto-empresas {
+    margin-left: 20%;
+}
+
+#img-empresas {
+    margin-left: 8%;
+}
