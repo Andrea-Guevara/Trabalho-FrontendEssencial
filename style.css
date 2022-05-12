@@ -55,3 +55,27 @@ h3{
 #img-empresas {
     margin-left: 8%;
 }
+/* comecei */
+footer {
+    padding: 0px;
+    background-color:#40026C;
+    border: 15px solid #40026C;
+    color: #fff;
+    text-align: center;
+}
+i {
+    font-size: 20pt;
+    margin: 30px;
+}
+.central {
+    text-align: center;
+}
+.central h1 {
+    font-size: 30pt;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin-bottom: 70px;
+}
+.central img {
+    margin-bottom: 187px;
+}
